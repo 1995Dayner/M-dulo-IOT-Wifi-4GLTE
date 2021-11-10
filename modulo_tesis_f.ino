@@ -120,7 +120,7 @@ int bootCount2 = 0;
 #include <Wire.h>
 // Replace with your network credentials (Credenciales SSID y Password)
 const char* ssid     = " ";// Nombre de red o ssid
-const char* password = "} ";// Contraseña o credencial de acceso a la red
+const char* password = " ";// Contraseña o credencial de acceso a la red
 
 // REPLACE with your Domain name and URL path or IP address with path
 // const char* serverName = "http://testiot.atwebpages.com/post-data.php";
