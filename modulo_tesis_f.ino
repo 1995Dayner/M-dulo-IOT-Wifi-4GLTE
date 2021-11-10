@@ -136,7 +136,7 @@ const char simPIN[]   = "";
 
 // Your phone number to send SMS: + (plus sign) and country code, for Portugal +351, followed by phone number
 // SMS_TARGET Example for Portugal +351XXXXXXXXX
-#define SMS_TARGET  " " // Información de la SIM del usuario al cuál se el enviarán el sms con los resultados
+#define SMS_TARGET  " " // Número de la SIM del usuario al cuál se el enviarán el sms con los resultados
 
 
 // Your GPRS credentials (leave empty, if not needed)
